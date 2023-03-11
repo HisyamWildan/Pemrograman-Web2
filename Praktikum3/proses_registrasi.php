@@ -2,7 +2,7 @@
 $domisili = ["Jakarta", "Bogor", "Depok", "Tangerang", "Bekasi"];
 
 
-$program_studi = [
+$prodi = [
     "SI" => "Sistem Informasi",
     "TI" => "Teknik Informatika",
     "BD" => "Bisnis Digital",
